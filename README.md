@@ -5,7 +5,7 @@
 <br/>
 
 ## 목차
-- 프로젝트 소개
+- <a name="projectintro">프로젝트 소개</a>
 - 로고 소개
 - 팀원 소개
 - 개발 환경
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-## 프로젝트 소개 
+## <span name="projectintro">프로젝트 소개</span>
 <img width="402" alt="projectintro" src="https://user-images.githubusercontent.com/51870028/92555160-045c4100-f2a2-11ea-909f-c634a587feff.PNG">
 
 > 웹 개발자 수업을 들으며 했던 프로젝트 중에서 6명의 팀원들과 <strong>비대면 온라인 강의 서비스 사이트</strong>를 만들었습니다. <br/>
@@ -66,6 +66,7 @@
 
 ## 페이지 소개
 - 메인페이지
+<img width="960" alt="main" src="https://user-images.githubusercontent.com/51870028/92557789-fc9f9b00-f2a7-11ea-83c8-8a88bc7968ce.png">
 
 - 마이페이지 (학생으로 로그인)
 <img width="960" alt="pt11" src="https://user-images.githubusercontent.com/51870028/92556863-eb558f00-f2a5-11ea-9c31-d05dfab095e5.png">
