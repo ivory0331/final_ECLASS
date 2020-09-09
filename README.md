@@ -1,13 +1,12 @@
-# ECLASS 💻📚
+# ECLASS 💻
 2020 Final Project (KH정보교육원)
-
-<br/>
 <br/>
 
 ## 목차
 - <a href="#projectintro">프로젝트 소개</a>
 - <a href="#logo">로고 소개</a>
 - <a href="#team">팀원 소개</a>
+- <a href="#schedule">일정 관리</a>
 - <a href="#settings">개발 환경</a>
 - <a href="#reference">참고한 사이트</a>
 - <a href="#db">DB 설계 (ERD+UML)</a>
@@ -21,21 +20,16 @@
 ## <a name="projectintro">프로젝트 소개</a>
 <img width="402" alt="projectintro" src="https://user-images.githubusercontent.com/51870028/92555160-045c4100-f2a2-11ea-909f-c634a587feff.PNG">
 
-> 웹 개발자 수업을 들으며 했던 프로젝트 중에서 6명의 팀원들과 <strong>비대면 온라인 강의 서비스 사이트</strong>를 만들었습니다. <br/>
-진행기간은 약 한달동안 진행되었고 사이트의 주요 목적은 코로나로 인한 특수 상황으로 인해 비대면 상황에서 생활을 이어가야하는 요즘
-수업은 해야하지만 정해진 플렛폼없이 진행하다보니 강의 청취프로그램이 각각 다르고 어렵다는 불만, 출석의 방법이 불편하다는 불만 등등 여러가지 문제가 발생하는 것을 느꼈습니다.
-그래서 전문적인 비대면 온라인 강의 서비스를 하면 어떨까 하는 생각이 들었고 그 계기로 대학생과 교수님들을 타켓으로 한 교육사이트를 만들게 되었습니다. <br/>
-하나의 프로젝트를 여러명에서 하다보니 의사소통을 조금이라도 소홀히하면 서로 생각하는것이 달라 목표가 흐트러진다는 것을 느꼈습니다.
-그래서 저희는 '같은 곳을 보기 위한 끝없는 동기화'를 위해 Slack과 google spreadsheet의 스케줄러를 이용하여 끊임없이 의견을 나누며 
-의견 충돌이 발생하는 부분에서도 배려하고 서로 이해시키며 공통의 목표를 향해 나아갈 수 있었습니다. 프로젝트 후반부에는 서로의 작업물들을 보며
-피드백을 받고 피드백을 반영하여 더 편리하고 직관적인 사이트를 만들 수 있도록 노력했습니다.
+> [온라인 클래스 플랫폼] <br/>
+ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 실제 사용자들의 니즈를 반영하여 제작하게 된 온라인 수강 웹사이트입니다.<br/>
+ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 강의, 출석관리, 시험관리, 성적관리' 등 모든 기능을 한번에 이용할 수 있는 <strong>통합 온라인 플랫폼</strong>으로 제작 되었으며, 학생들과의 친근감을 형성하기 위해 귀여운 펭귄 아이콘을 사용하여 브랜딩하게 되었습니다. 특히, 교육 사이트에서 교육을 받지 못하는 아이들을 위한 <strong>후원하기 페이지</strong>를 만든 것이 ECLASS만의 차이점 입니다. The first penguin, The first class라는 네이밍으로 이클래스의 선구자가 되는 것이 목표입니다.
 
 <br/>
 
 ## <a name="logo">로고 소개</a>
 <img width="211" alt="eclassLogo" src="https://user-images.githubusercontent.com/51870028/92554936-7bdda080-f2a1-11ea-9ccc-072a3737daeb.PNG"> <br/>
-무리 중에서 처음 바다에 뛰어든 팽귄을 퍼스트 팽귄이라고 합니다. <br/>
-저희 또한 불확실성을 감수하고 용감하게 도전하는 <strong>선구자</strong>가 되겠다는 마음으로 팽귄을 넣어 로고를 만들어 보았습니다.
+무리 중에서 처음 바다에 뛰어든 펭귄을 first penguin, 즉 '선구자'라고 합니다. <br/>
+저희 또한 불확실성을 감수하고 온라인 클래스 분야의 <strong>선구자</strong>가 되겠다는 마음으로 펭귄 아이콘을 넣어 로고를 제작하였습니다.
 
 <br/>
 
@@ -45,12 +39,17 @@
 
 <br/>
 
+## <a name="schedule">일정 관리 🗓</a>
+<img width="600" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92567925-5eb4cc00-f2b9-11ea-98a1-4ce05caebdda.png">
+
+<br/>
+
 ## <a name="settings">개발 환경 🔧</a>
 <img width="425" alt="roqkf" src="https://user-images.githubusercontent.com/51870028/92555289-47b6af80-f2a2-11ea-9367-8ec1f00fe7e9.PNG">
 
 <br/>
 
-## <a name="reference">참고한 사이트</a>
+## <a name="reference">참고 사이트</a>
 <img width="354" alt="reference" src="https://user-images.githubusercontent.com/51870028/92555457-a714bf80-f2a2-11ea-8744-6b8134dde77b.PNG">
 
 <br/>
@@ -75,3 +74,15 @@
 - 마이페이지 (교수로 로그인)
 <img width="960" alt="pt33" src="https://user-images.githubusercontent.com/51870028/92556943-15a74c80-f2a6-11ea-8e40-8d76f3e0d7f1.png">
 <img width="960" alt="pt44" src="https://user-images.githubusercontent.com/51870028/92556979-22c43b80-f2a6-11ea-8016-bbffec60c81a.png">
+
+-후원하기 리스트 페이지
+<img width="960" alt="pt55" src="https://user-images.githubusercontent.com/66661653/92558832-5bfeaa80-f2aa-11ea-94d9-062cb11fbb4a.png">
+
+-후원하기 상세페이지(스토리)
+<img width="960" alt="pt66" src="https://user-images.githubusercontent.com/66661653/92563542-b26fe700-f2b2-11ea-9d21-9ab7acdc4891.png">
+
+-후원하기 상세페이지(서포터)
+<img width="960" alt="pt77" src="https://user-images.githubusercontent.com/66661653/92559081-d7f8f280-f2aa-11ea-975b-49e6709bc2e0.png">
+
+-결제하기
+<img width="960" alt="pt88" src="https://user-images.githubusercontent.com/66661653/92558944-9405ed80-f2aa-11ea-9d6a-a1d5c341a273.png">
