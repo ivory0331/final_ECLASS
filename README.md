@@ -10,7 +10,7 @@
 - <a href="#settings">개발 환경</a>
 - <a href="#reference">참고한 사이트</a>
 - <a href="#db">DB 설계 (ERD+UML)</a>
-- <a href="#pageintro">페이지 소개</a>
+- <a href="#pageintro">구현 미리보기</a>
 
 -------------
 
@@ -63,7 +63,7 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 실제 사용
 
 <br/>
 
-## <a name="pageintro">페이지 소개</a>
+## <a name="pageintro">구현 미리보기</a>
 - 메인페이지
 <img width="960" alt="main" src="https://user-images.githubusercontent.com/51870028/92557789-fc9f9b00-f2a7-11ea-83c8-8a88bc7968ce.png">
 
